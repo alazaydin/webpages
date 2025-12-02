@@ -1,0 +1,20 @@
+---
+title: "Cogs'N Coffee"
+author: "alaz"
+format: revealjs
+---
+
+
+# Capacity of Interest
+
+two observations:
+1. a physics [simulation](http://probmods.org/chapters/generative-models.html)
+2. a set of [experiments](https://www.youtube.com/watch?v=Z-eU5xZW7cU) with children and chimps
+
+how humans:
+- ascribe **mental states** (belief, desire, intention; BDI) to self and others
+- have a **Theory of Mind** (understanding, model, grasp, notion)
+
+why *theory*?
+- mental states are **not** directly **observable**
+- **assumption**: behavior is governed by an agent's mental states (BDI cause behavior)
